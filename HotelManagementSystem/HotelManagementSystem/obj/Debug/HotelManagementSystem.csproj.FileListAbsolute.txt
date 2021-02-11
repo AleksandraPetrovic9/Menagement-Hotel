@@ -1,0 +1,335 @@
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.NameResolution.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Security.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Sockets.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Threading.Thread.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.pdb
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.xml
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+D:\Instalacija\Microsoft Visual Studio 2019\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.PregledSobe.resources
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.NameResolution.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Security.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Sockets.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Threading.Thread.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.pdb
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.xml
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.PregledSobe.resources
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodavanjeGosta.resources
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodajSobu.resources
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.RasporediRadnika.resources
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.UkloniZadatak.resources
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.ZadajZadatak.resources
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.AzuriranjeGosta.resources
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.IzmeniSobu.resources
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.PregledGostiju.resources
+D:\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.DodajRezervaciju.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.NameResolution.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Security.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Sockets.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Threading.Thread.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.pdb
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.xml
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.AzuriranjeGosta.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.DodajRezervaciju.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodajSobu.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodavanjeGosta.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.IzmeniSobu.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.PregledGostiju.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.PregledSobe.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.RasporediRadnika.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.UkloniZadatak.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.ZadajZadatak.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\Repos\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.NameResolution.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Security.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Sockets.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Threading.Thread.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.pdb
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.xml
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.AzuriranjeGosta.resources
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.DodajRezervaciju.resources
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodajSobu.resources
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodavanjeGosta.resources
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.IzmeniSobu.resources
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.PregledGostiju.resources
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.PregledSobe.resources
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.RasporediRadnika.resources
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.UkloniZadatak.resources
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.ZadajZadatak.resources
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\Git projekti\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.NameResolution.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Security.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Sockets.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Threading.Thread.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.pdb
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.xml
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.AzuriranjeGosta.resources
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.DodajRezervaciju.resources
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodajSobu.resources
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodavanjeGosta.resources
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.IzmeniSobu.resources
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.PregledGostiju.resources
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.PregledSobe.resources
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.RasporediRadnika.resources
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.UkloniZadatak.resources
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.ZadajZadatak.resources
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\Repos1\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.NameResolution.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Security.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Sockets.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Threading.Thread.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.pdb
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.xml
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.AzuriranjeGosta.resources
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.DodajRezervaciju.resources
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodajSobu.resources
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodavanjeGosta.resources
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.IzmeniSobu.resources
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.PregledGostiju.resources
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.PregledSobe.resources
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.RasporediRadnika.resources
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.UkloniZadatak.resources
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.ZadajZadatak.resources
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\fax4\prviSem\NBP\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.NameResolution.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Security.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Sockets.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Threading.Thread.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.pdb
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.xml
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.AzuriranjeGosta.resources
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.DodajRezervaciju.resources
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodajSobu.resources
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodavanjeGosta.resources
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.IzmeniSobu.resources
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.PregledGostiju.resources
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.PregledSobe.resources
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.RasporediRadnika.resources
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.UkloniZadatak.resources
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.ZadajZadatak.resources
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\fax4\prviSem\NBP\kasandra\naprednebaze\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.NameResolution.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Security.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Sockets.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Threading.Thread.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.pdb
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.xml
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.AzuriranjeGosta.resources
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.DodajRezervaciju.resources
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodajSobu.resources
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodavanjeGosta.resources
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.IzmeniSobu.resources
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.PregledGostiju.resources
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.PregledSobe.resources
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.RasporediRadnika.resources
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.UkloniZadatak.resources
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.ZadajZadatak.resources
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\REPOS\r6\naprednebaze\I-domaci\HotelManagementSystem\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\Orient.Client.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.NameResolution.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Security.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Net.Sockets.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Threading.Thread.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.pdb
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\Neo4jClient.xml
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.AzuriranjeGosta.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.DodajRezervaciju.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodajSobu.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.DodavanjeGosta.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.IzmeniSobu.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.PregledGostiju.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.PregledSobe.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.RasporediRadnika.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.UkloniZadatak.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.ZadajZadatak.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.FormPrijava.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.FormStatistika.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.FormProduzetakBoravka.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.FormStatistikaGosta.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.FormRanijeOdjavljivanje.resources
+D:\NAPREDNE BAZE-HOTEL\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forme.FormOtkazRezervacija.resources
